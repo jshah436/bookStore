@@ -1,0 +1,59 @@
+[ 
+    {
+        "id" : 1,
+        "name": "Story Book",
+        "category": "free",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 0,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 7,
+        "name": "Comic Book",
+        "category": "free",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 0,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 2,
+        "name": "Comic Book",
+        "category": "comic",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 30,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 3,
+        "name": "Cooking Book",
+        "category": "cooking",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 20,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 4,
+        "name": "Manga Book",
+        "category": "free",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 0,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 5,
+        "name": "Cooking Book",
+        "category": "cooking",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 20,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    },
+    {
+        "id" : 6,
+        "name": "Comic Book",
+        "category": "comic",
+        "title": " Lorem ispum dolor sit amet consectory slit adliphisng",
+        "price" : 30,
+        "image": "https://img.freepik.com/free-vector/realistic-book-lover-composition-with-stack-colorful-books-with-eyeglasses-home-plants-tea-cup-vector-illustration_1284-77312.jpg?t=st=1719889153~exp=1719892753~hmac=2eda3b45fc2a2e3a0c555f6b1fe1d8a27f25a96433c129b61137cdb2a30bc53c&w=826"
+    }
+
+]
